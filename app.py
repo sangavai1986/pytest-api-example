@@ -47,7 +47,8 @@ pets = [
     }
 ]
 
-orders = {}
+orders = {
+}
 
 '''
 Pet Namespace
